@@ -1,10 +1,8 @@
 1. Створіть новий каталог "new-project" в своєму робочому середовищі.
-```console
+
 ```
 mkdir new-project
 cd new-project
-```
-```console
 ```
 
 2. Ініціалізуйте новий Git-репозиторій всередині каталогу "new-project".
